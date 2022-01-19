@@ -41,7 +41,7 @@ int main() {
           printf("\nWhat are you waiting for? Pull the trigger.\n");
           break;
         default: 
-          printf("\nbruh... (you failed to correctly input 't' %d times\n", fails);
+          printf("\nbruh... (you failed to correctly input 't' %d times)\n", fails);
       }
     }
   }
