@@ -6,7 +6,7 @@ After cleaning out your room, you stumble across an old Nerf N-Strike Maverick R
 
 ## Run the App
 
-Navigate to the project's directory and run
+After downloading the project locally, navigate to the project's directory and run
 
 ```bash
 make

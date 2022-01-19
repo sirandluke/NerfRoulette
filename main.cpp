@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <iostream>
 #include <string>
-#include<time.h>
+#include <time.h>
 
 using namespace std;
 
